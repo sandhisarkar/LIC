@@ -1,0 +1,37 @@
+8
+
+dir
+490
+https://ntpl-bdc:8443/svn/edms/trunk/stable/Active/NovaNet
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2010-06-10T14:23:36.017735Z
+487
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+Utils
+dir
+
+wfe
+dir
+
+lib
+dir
+

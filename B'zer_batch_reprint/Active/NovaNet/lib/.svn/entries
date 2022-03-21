@@ -1,0 +1,54 @@
+8
+
+dir
+490
+https://ntpl-bdc:8443/svn/edms/trunk/stable/Active/NovaNet/lib
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2010-06-10T14:23:36.017735Z
+487
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+NovaNet.Utils.dll
+file
+491
+
+
+
+2010-07-13T11:51:15.139041Z
+65b14a1cdb3088c8ca1b03b45200793b
+2010-07-19T11:43:50.760138Z
+491
+subhajitb
+has-props
+
+NovaNet.wfe.dll
+file
+491
+
+
+
+2010-07-13T11:51:15.498416Z
+ef4603c2fe14f979f85bc216bcfb7db3
+2010-07-19T11:43:50.760138Z
+491
+subhajitb
+has-props
+

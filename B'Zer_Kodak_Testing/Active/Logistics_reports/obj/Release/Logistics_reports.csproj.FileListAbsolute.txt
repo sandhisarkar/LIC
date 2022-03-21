@@ -1,0 +1,5 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\Logistics_reports\bin\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\Logistics_reports\bin\Release\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\Logistics_reports\obj\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\Logistics_reports\obj\Release\Logistics_reports.pdb

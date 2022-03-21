@@ -1,0 +1,7 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\bin\Release\LItems.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\bin\Release\LItems.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\bin\Release\NovaNet.wfe.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\LItems\obj\Release\LItems.dll

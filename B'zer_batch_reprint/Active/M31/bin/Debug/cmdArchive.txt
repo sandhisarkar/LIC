@@ -1,0 +1,9 @@
+batch_master: a, d;
+box_master: a, d;
+custom_exception: a, d;
+image_master: a, d;
+inventory_in_exception: a, d;
+lic_qa_log: a, d;
+policy_master: a, d;
+rawdata: a, d;
+transaction_log: a, d;

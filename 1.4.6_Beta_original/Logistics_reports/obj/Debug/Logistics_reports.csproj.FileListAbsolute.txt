@@ -1,0 +1,17 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\bin\Debug\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\bin\Debug\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\bin\Debug\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\bin\Debug\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\ResolveAssemblyReference.cache
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Decl\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta\Logistics_reports\obj\Debug\Decl\Logistics_reports.pdb
+I:\EDMS\B'Zer_Active\1.4.6_Beta_original\Logistics_reports\obj\Debug\ResolveAssemblyReference.cache
+I:\EDMS\B'Zer_Active\1.4.6_Beta_original\Logistics_reports\obj\Debug\Logistics_reports.pdb
+I:\EDMS\B'Zer_Active\1.4.6_Beta_original\Logistics_reports\bin\Debug\Logistics_reports.dll
+I:\EDMS\B'Zer_Active\1.4.6_Beta_original\Logistics_reports\bin\Debug\Logistics_reports.pdb
+I:\EDMS\B'Zer_Active\1.4.6_Beta_original\Logistics_reports\obj\Debug\Logistics_reports.dll

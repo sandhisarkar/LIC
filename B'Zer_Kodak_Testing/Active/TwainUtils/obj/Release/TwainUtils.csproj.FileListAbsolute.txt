@@ -1,0 +1,6 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\bin\Release\TwainUtils.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\bin\Release\TwainUtils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\bin\Release\Interop.ClearImage.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\TwainUtils\obj\Release\TwainUtils.dll

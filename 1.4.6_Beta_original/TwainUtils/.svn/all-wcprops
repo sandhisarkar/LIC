@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils
+END
+GdiPlusLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/GdiPlusLib.cs
+END
+ImgToBmp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/ImgToBmp.cs
+END
+TwainUtils.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/TwainUtils.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/app.config
+END
+TwainDefs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/TwainDefs.cs
+END
+TwainLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/edms/!svn/ver/587/B!Zer/branches/1.4.6_Beta/TwainUtils/TwainLib.cs
+END

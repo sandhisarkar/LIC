@@ -1,0 +1,83 @@
+8
+
+dir
+490
+https://ntpl-bdc:8443/svn/edms/trunk/stable/Active
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2010-07-03T05:17:20.593815Z
+490
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+M31
+dir
+
+TwainUtils
+dir
+
+M31.suo
+file
+491
+
+
+
+2010-07-13T13:50:37.247000Z
+c295284a2bc70b648ada4420fa10aa56
+2010-07-19T11:43:50.760138Z
+491
+subhajitb
+has-props
+
+wSelect
+dir
+
+IH_ICON
+dir
+
+UpgradeLog.XML
+file
+
+
+
+
+2010-04-19T06:24:51.673299Z
+1e77a3e3a29d58bc8c36bc94b4df8e49
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+
+NovaNet
+dir
+
+M31.sln
+file
+
+
+
+
+2010-04-19T06:24:51.704549Z
+5be3439ad536a128618782180e7a31a2
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+
+Logistics_reports
+dir
+

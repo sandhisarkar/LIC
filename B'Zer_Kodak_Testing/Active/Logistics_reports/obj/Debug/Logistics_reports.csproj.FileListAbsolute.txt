@@ -1,0 +1,5 @@
+D:\works\EDMS\CodeRevisions\Active\Logistics_reports\bin\Debug\Logistics_reports.dll
+D:\works\EDMS\CodeRevisions\Active\Logistics_reports\bin\Debug\Logistics_reports.pdb
+D:\works\EDMS\CodeRevisions\Active\Logistics_reports\obj\Debug\ResolveAssemblyReference.cache
+D:\works\EDMS\CodeRevisions\Active\Logistics_reports\obj\Debug\Logistics_reports.dll
+D:\works\EDMS\CodeRevisions\Active\Logistics_reports\obj\Debug\Logistics_reports.pdb

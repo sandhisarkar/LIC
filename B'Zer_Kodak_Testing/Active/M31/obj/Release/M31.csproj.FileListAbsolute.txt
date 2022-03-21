@@ -1,0 +1,2 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\bin\Release\M31.exe.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'Zer_Kodak_Testing\Active\M31\obj\Release\ResolveAssemblyReference.cache

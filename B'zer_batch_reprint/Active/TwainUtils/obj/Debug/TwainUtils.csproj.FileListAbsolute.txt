@@ -1,0 +1,9 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\TwainUtils.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\TwainUtils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\TwainUtils.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\Interop.ClearImage.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\bin\Debug\NovaNet.Utils.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\obj\Debug\TwainUtils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\TwainUtils\obj\Debug\TwainUtils.pdb

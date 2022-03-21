@@ -1,0 +1,10 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'zer_batch_reprint\Active\Logistics_reports\bin\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'zer_batch_reprint\Active\Logistics_reports\bin\Release\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'zer_batch_reprint\Active\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'zer_batch_reprint\Active\Logistics_reports\obj\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\B'zer_batch_reprint\Active\Logistics_reports\obj\Release\Logistics_reports.pdb

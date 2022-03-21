@@ -1,0 +1,11 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\LItems.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\LItems.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\LItems.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\NovaNet.wfe.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\Interop.ClearImage.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\NovaNet.wfe.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\bin\Debug\NovaNet.Utils.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\obj\Debug\LItems.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\M31\LItems\obj\Debug\LItems.pdb

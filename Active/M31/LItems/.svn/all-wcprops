@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/edms/!svn/ver/584/B!Zer/trunk/stable/Active/M31/LItems
+END
+ihwQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/edms/!svn/ver/735/B!Zer/trunk/stable/Active/M31/LItems/ihwQuery.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/edms/!svn/ver/584/B!Zer/trunk/stable/Active/M31/LItems/app.config
+END
+wfePolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/edms/!svn/ver/584/B!Zer/trunk/stable/Active/M31/LItems/wfePolicy.cs
+END
+wfeBatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/edms/!svn/ver/735/B!Zer/trunk/stable/Active/M31/LItems/wfeBatch.cs
+END
+wfeImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/edms/!svn/ver/735/B!Zer/trunk/stable/Active/M31/LItems/wfeImage.cs
+END
+LItems.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/edms/!svn/ver/584/B!Zer/trunk/stable/Active/M31/LItems/LItems.csproj
+END
+wfeProject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/edms/!svn/ver/584/B!Zer/trunk/stable/Active/M31/LItems/wfeProject.cs
+END
+wfeBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/edms/!svn/ver/735/B!Zer/trunk/stable/Active/M31/LItems/wfeBox.cs
+END

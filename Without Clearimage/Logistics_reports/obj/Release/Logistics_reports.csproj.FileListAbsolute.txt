@@ -1,0 +1,15 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Release\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+H:\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Release\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\Without Clearimage\Logistics_reports\bin\Release\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\Without Clearimage\Logistics_reports\bin\Release\Logistics_reports.pdb
+H:\EDMS\B'Zer_Active\Without Clearimage\Logistics_reports\obj\Release\ResolveAssemblyReference.cache
+H:\EDMS\B'Zer_Active\Without Clearimage\Logistics_reports\obj\Release\Logistics_reports.dll
+H:\EDMS\B'Zer_Active\Without Clearimage\Logistics_reports\obj\Release\Logistics_reports.pdb

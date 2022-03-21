@@ -1,0 +1,40 @@
+8
+
+dir
+490
+https://ntpl-bdc:8443/svn/edms/trunk/stable/Active/M31/LItems/Properties
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2010-05-19T11:18:04.406318Z
+480
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+AssemblyInfo.cs
+file
+
+
+
+
+2010-05-19T11:08:49.944375Z
+1b45b404def324241ae5382a2e41fe8a
+2010-05-19T11:18:04.406318Z
+480
+subhajitb
+

@@ -1,0 +1,12 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\NovaNet\wfe\bin\Release\NovaNet.wfe.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\NovaNet\wfe\bin\Release\NovaNet.wfe.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\NovaNet\wfe\bin\Release\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\NovaNet\wfe\obj\Release\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\1.4.6_Beta\NovaNet\wfe\obj\Release\NovaNet.wfe.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\bin\Release\NovaNet.wfe.dll.config
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\bin\Release\NovaNet.wfe.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\bin\Release\NovaNet.Utils.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\obj\Release\ResolveAssemblyReference.cache
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\obj\Release\NovaNet.wfe.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\obj\Release\Decl\NovaNet.wfe.dll
+H:\EDMS\B'Zer_Active\1.4.6_Beta_original\NovaNet\wfe\obj\Release\Decl\NovaNet.wfe.pdb

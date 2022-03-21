@@ -1,0 +1,79 @@
+8
+
+dir
+584
+https://ntpl-bdc:8443/svn/edms/B!Zer/trunk/stable/Active/NovaNet/wfe
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2010-04-01T09:33:39.033421Z
+454
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+wfe.csproj
+file
+
+
+
+
+2011-01-18T06:10:49.706474Z
+42546cdeeb12d840b2218e7dc8785aac
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+
+app.config
+file
+
+
+
+
+2011-01-18T06:10:49.722099Z
+6098c30c4ee739e5f988007e177ce308
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+
+wfe.cs
+file
+
+
+
+
+2011-01-18T06:10:49.722099Z
+137458b46e12addda5eb8321b2de30e0
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+
+Properties
+dir
+
+wfe.sln
+file
+
+
+
+
+2011-01-18T06:10:49.722099Z
+34e6351c4cbae9e9df0d2cb9399d2bca
+2010-03-29T07:57:16.265689Z
+439
+subhajitb
+

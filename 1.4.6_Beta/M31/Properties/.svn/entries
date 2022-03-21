@@ -1,0 +1,40 @@
+8
+
+dir
+587
+https://ntpl-bdc:8443/svn/edms/B!Zer/branches/1.4.6_Beta/M31/Properties
+https://ntpl-bdc:8443/svn/edms
+
+
+
+2011-01-18T06:04:07.046944Z
+580
+subhajitb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83bbaa6f-bab3-5948-a3e1-3abc99dde4cd
+
+AssemblyInfo.cs
+file
+621
+
+
+
+2011-02-15T05:38:28.671912Z
+b4032d5dea59309fdbeeaf8052223932
+2011-02-16T05:22:04.920550Z
+621
+subhajitb
+

@@ -1,0 +1,7 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll.config
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\bin\Debug\NovaNet.wfe.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\bin\Debug\NovaNet.wfe.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\bin\Debug\NovaNet.Utils.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\obj\Debug\NovaNet.wfe.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\NovaNet\wfe\obj\Debug\NovaNet.wfe.pdb

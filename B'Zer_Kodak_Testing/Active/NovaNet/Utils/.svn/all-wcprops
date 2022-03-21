@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils
+END
+FileorFolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/FileorFolder.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Logger.cs
+END
+INIFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/INIFile.cs
+END
+Crypto.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Crypto.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/app.config
+END
+GetChallenge.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/GetChallenge.Designer.cs
+END
+frmLoggedUser.resx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmLoggedUser.resx
+END
+GetChallenge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/GetChallenge.cs
+END
+Keys.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Keys.jpg
+END
+Utils.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.sln
+END
+emailLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/emailLogger.cs
+END
+login_screen1.gif
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/login_screen1.gif
+END
+ci.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ci.cs
+END
+ihAccControl.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ihAccControl.sln
+END
+AddNewUser.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/AddNewUser.Designer.cs
+END
+UserAuth.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/UserAuth.cs
+END
+UtilsDeletgates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/UtilsDeletgates.cs
+END
+Reader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Reader.cs
+END
+IhConfiguration.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/IhConfiguration.ini
+END
+frmLoggedUser.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmLoggedUser.designer.cs
+END
+Utils.csproj.r90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.csproj.r90
+END
+frmLoggedUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmLoggedUser.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Configuration.cs
+END
+RBAC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/RBAC.cs
+END
+login.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/login.gif
+END
+Utils.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.csproj.user
+END
+IgrFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/IgrFactory.cs
+END
+Animated Gif Keys (5).gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Animated%20Gif%20Keys%20(5).gif
+END
+Writer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Writer.cs
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Constants.cs
+END
+PwdChange.resx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/PwdChange.resx
+END
+ImpRBAC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ImpRBAC.cs
+END
+AddNewUser.resx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/AddNewUser.resx
+END
+txtLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/txtLogger.cs
+END
+frmConnection.resx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmConnection.resx
+END
+ExceptionReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ExceptionReader.cs
+END
+Utils.csproj.mine
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.csproj.mine
+END
+ProjectException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ProjectException.cs
+END
+dbCon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/dbCon.cs
+END
+Utils.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.csproj
+END
+Imagery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Imagery.cs
+END
+GetChallenge.resx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/GetChallenge.resx
+END
+PwdChange.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/PwdChange.Designer.cs
+END
+PwdChange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/PwdChange.cs
+END
+AddNewUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/AddNewUser.cs
+END
+Utils.suo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.suo
+END
+INIReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/INIReader.cs
+END
+frmConnection.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmConnection.Designer.cs
+END
+IntrRBAC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/IntrRBAC.cs
+END
+frmConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/frmConnection.cs
+END
+wItemCreator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/wItemCreator.cs
+END
+BoxException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/BoxException.cs
+END
+CommonException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/CommonException.cs
+END
+ImageConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/ImageConfig.cs
+END
+Utils.csproj.r87
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/Utils.csproj.r87
+END
+gdp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/EDMS/!svn/ver/464/trunk/stable/Active/NovaNet/Utils/gdp.cs
+END

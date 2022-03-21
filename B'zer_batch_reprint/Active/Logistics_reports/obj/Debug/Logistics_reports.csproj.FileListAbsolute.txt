@@ -1,0 +1,5 @@
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Debug\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\bin\Debug\Logistics_reports.pdb
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Debug\ResolveAssemblyReference.cache
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Debug\Logistics_reports.dll
+D:\subhajit\Projects\EDMS\B'Zer_Active\Active\Logistics_reports\obj\Debug\Logistics_reports.pdb
